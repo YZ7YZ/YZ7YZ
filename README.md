@@ -1,11 +1,4 @@
-
-
-<!--
-**YZ7YZ/YZ7YZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 Just an amateur student
 
 
@@ -26,11 +19,3 @@ Just an amateur student
 [![](https://komarev.com/ghpvc/?username=YZ7YZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
