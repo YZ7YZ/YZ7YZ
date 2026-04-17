@@ -1,5 +1,5 @@
-# 💫 About Me:
-Just an amateur student
+#just an amateur student
+
 
 
 # 💻 Tech Stack:
