@@ -1,4 +1,4 @@
-#  About Me: Just an amateur student
+#   Just an amateur student
 
 
 
